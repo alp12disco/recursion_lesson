@@ -1,3 +1,4 @@
+import random
 min_value = int(input('Diside the range of numbers.\n The number of attempts is 5.\n First, enter the minimum value.\n'))
 max_value = int(input('Enter the maximum value.\n'))
 # 最大試行回数
